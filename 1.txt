@@ -1,1 +1,6 @@
 1111111111111111111111111111111111111
+
+git has a mutable index called
+
+
+git tracks changes of files
